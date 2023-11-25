@@ -1,5 +1,5 @@
 # Busy Buy App using ReactJS and Redux Toolkit
-This is shopping cart🛒 project built using ReactJS and Redux Toolkit. I used TailwindCSS to style the webpage. The design is completely responsive.
+This is Busy Buy Shoping App🛒 project built using ReactJS and Redux Toolkit. I used CSS to style the webpage. The design is completely responsive.
 
 # Project Features:
 1. Beautiful and Responsive UI using SCSS
